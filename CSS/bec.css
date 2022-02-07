@@ -1,0 +1,27 @@
+/************************Tag Selector************************/
+h1 {
+    color: blue;
+    font-size: 80px;
+    font-style: italic;
+    
+}
+
+img:hover {
+    background-color: black;
+}
+
+/************************Class Selector************************/
+.Bacon {
+    background-color: red;
+}
+.King {
+    background-color: green;
+}
+.circular {
+    border-radius: 100%;
+}
+
+/************************ID Selector************************/
+#heading {
+    color: darkorchid;
+}
